@@ -1,5 +1,6 @@
 #generate all possibilities for a tic-tac-toe game
 n=3
+cnt={'X':0,'O':0,'D':0}
 def any_winner(table):
     for c in ['X','O']:
         moves_X=table[c]
@@ -25,7 +26,9 @@ def print_possibility(dc):
         print()
     if any_winner(dc)!='#':
         print("the winner is "+any_winner(dc))
+        cnt[any_winner(dc)]+=1
     else:
+        cnt['D']+=1
         print("It's a draw !")
 def check(table):
     m=len(table['X'])+len(table['O'])
@@ -50,3 +53,7 @@ def generate():
         if check(table):
             print_possibility(table)
 generate()
+print("Obvious statistics for nerds :")
+print("X wins "+str(cnt['X'])+" times")
+print("O wins "+str(cnt['O'])+" times")
+print("Draw "+str(cnt['D'])+" times")
