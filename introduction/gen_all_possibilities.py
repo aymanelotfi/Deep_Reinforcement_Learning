@@ -1,5 +1,16 @@
 #generate all possibilities for a tic-tac-toe game
 n=3
+def any_winner(table):
+    for c in ['X','O']:
+        moves_X=table[c]
+        for (x,y) in moves_X:
+            if ((x-1,y) in moves_X) and ((x+1,y) in moves_X):
+                return c
+            if ((x,y-1) in moves_X ) and ((x,y+1) in moves_X):
+                return c
+            if ((x-1,y-1) in moves_X) and  ((x+1,y+1) in moves_X):
+                return c
+    return '#'
 def print_possibility(dc):
     moves_X=dc['X']
     moves_O=dc['O']
@@ -12,17 +23,10 @@ def print_possibility(dc):
             else:
                 print("#",end=' ')
         print()
-    print("************************")
-def any_winner(table):
-    for c in ['X','O']:
-        moves_X=table[c]
-        for (x,y) in moves_X:
-            if ((x-1,y) in moves_X) and ((x+1,y) in moves_X):
-                return True
-            if ((x,y-1) in moves_X ) and ((x,y+1) in moves_X):
-                return True
-            if ((x-1,y-1) in moves_X) and  ((x+1,y+1) in moves_X):
-                return True
+    if any_winner(dc)!='#':
+        print("the winner is "+any_winner(dc))
+    else:
+        print("It's a draw !")
 def check(table):
     m=len(table['X'])+len(table['O'])
     move1=(m)//2
@@ -37,7 +41,7 @@ def generate():
     for mask in range((1<<m)):
         table={'X':[],'O':[]}
         for bit in range(9):
-            if any_winner(table):
+            if any_winner(table)!='#':
                 break
             if mask&(1<<bit):
                 table['X'].append(moves[bit])

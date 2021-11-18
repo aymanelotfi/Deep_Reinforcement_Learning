@@ -1,0 +1,672 @@
+O X X 
+O X O 
+O # # 
+the winner is O
+X X O 
+X X O 
+O O O 
+the winner is O
+X O X 
+X X O 
+O O O 
+the winner is O
+O X X 
+X X O 
+O O O 
+the winner is O
+O X X 
+O O X 
+O # # 
+the winner is O
+X X O 
+X O X 
+O O O 
+the winner is O
+X O X 
+X O X 
+O O # 
+the winner is O
+O X X 
+X O X 
+O O O 
+the winner is O
+O X O 
+O X X 
+O # # 
+the winner is O
+X X O 
+O X X 
+O O O 
+the winner is O
+O O X 
+O X X 
+O # # 
+the winner is O
+X O X 
+O X X 
+O O O 
+the winner is O
+O X X 
+O X X 
+O # # 
+the winner is O
+X O O 
+X O O 
+X # # 
+the winner is X
+X X O 
+X O O 
+X # # 
+the winner is X
+X O X 
+X O O 
+X # # 
+the winner is X
+O X X 
+X O O 
+X O O 
+the winner is O
+X X O 
+O X O 
+X O O 
+the winner is O
+X O X 
+O X O 
+X O O 
+It's a draw !
+O X X 
+O X O 
+X O O 
+It's a draw !
+X O O 
+X X O 
+X # # 
+the winner is X
+O X O 
+X X O 
+X O O 
+the winner is O
+O O X 
+X X O 
+X O O 
+It's a draw !
+O X X 
+X X O 
+X O O 
+It's a draw !
+X X O 
+O O X 
+X O O 
+It's a draw !
+X O X 
+O O X 
+X O # 
+the winner is O
+O X X 
+O O X 
+X O O 
+the winner is O
+X O O 
+X O X 
+X # # 
+the winner is X
+O X O 
+X O X 
+X O O 
+the winner is O
+O O X 
+X O X 
+X O # 
+the winner is O
+O X X 
+X O X 
+X O O 
+the winner is O
+X O O 
+O X X 
+X O O 
+It's a draw !
+O X O 
+O X X 
+X O O 
+It's a draw !
+X X O 
+O X X 
+X O O 
+It's a draw !
+O O X 
+O X X 
+X O O 
+It's a draw !
+X O X 
+O X X 
+X O O 
+It's a draw !
+O X X 
+O X X 
+X O O 
+It's a draw !
+X X O 
+X O O 
+O X O 
+the winner is O
+X O X 
+X O O 
+O X O 
+It's a draw !
+O X X 
+X O O 
+O X O 
+the winner is O
+X X O 
+O X O 
+O X # 
+the winner is X
+X O X 
+O X O 
+O X O 
+It's a draw !
+O X X 
+O X O 
+O # # 
+the winner is O
+X O O 
+X X O 
+O X O 
+the winner is O
+O X O 
+X X O 
+O X # 
+the winner is X
+O O X 
+X X O 
+O X O 
+It's a draw !
+X O X 
+X X O 
+O X O 
+It's a draw !
+X X O 
+O O X 
+O X O 
+It's a draw !
+X O X 
+O O X 
+O X O 
+It's a draw !
+O X X 
+O O X 
+O # # 
+the winner is O
+X O O 
+X O X 
+O X O 
+It's a draw !
+O X O 
+X O X 
+O X O 
+the winner is O
+X X O 
+X O X 
+O X O 
+It's a draw !
+O O X 
+X O X 
+O X O 
+the winner is O
+X O X 
+X O X 
+O X O 
+It's a draw !
+O X X 
+X O X 
+O X O 
+the winner is O
+X O O 
+O X X 
+O X O 
+It's a draw !
+O X O 
+O X X 
+O # # 
+the winner is O
+O O X 
+O X X 
+O # # 
+the winner is O
+X O X 
+O X X 
+O X O 
+It's a draw !
+O X X 
+O X X 
+O # # 
+the winner is O
+X O O 
+X O O 
+X # # 
+the winner is X
+O X O 
+X O O 
+X X O 
+the winner is O
+X X O 
+X O O 
+X # # 
+the winner is X
+O O X 
+X O O 
+X X O 
+the winner is O
+X O X 
+X O O 
+X # # 
+the winner is X
+O X X 
+X O O 
+X X O 
+the winner is O
+X O O 
+O X O 
+X X O 
+the winner is O
+O X O 
+O X O 
+X X # 
+the winner is X
+O O X 
+O X O 
+X X O 
+It's a draw !
+X O X 
+O X O 
+X X O 
+It's a draw !
+X O O 
+X X O 
+X # # 
+the winner is X
+O O X 
+X X O 
+X X O 
+It's a draw !
+X O O 
+O O X 
+X X O 
+It's a draw !
+O X O 
+O O X 
+X X O 
+the winner is O
+X X O 
+O O X 
+X X O 
+It's a draw !
+O O X 
+O O X 
+X X O 
+the winner is O
+X O X 
+O O X 
+X X O 
+It's a draw !
+O X X 
+O O X 
+X X O 
+the winner is O
+X O O 
+X O X 
+X # # 
+the winner is X
+O X O 
+X O X 
+X X O 
+the winner is O
+O O X 
+X O X 
+X X O 
+the winner is O
+X O O 
+O X X 
+X X O 
+It's a draw !
+O O X 
+O X X 
+X X O 
+It's a draw !
+X X O 
+X O O 
+O O X 
+It's a draw !
+O X X 
+X O O 
+O O X 
+It's a draw !
+X X O 
+O X O 
+O O X 
+the winner is X
+X O X 
+O X O 
+O O X 
+the winner is X
+O X X 
+O X O 
+O # # 
+the winner is O
+X O O 
+X X O 
+O O X 
+the winner is X
+O X O 
+X X O 
+O O X 
+It's a draw !
+X X O 
+X X O 
+O O X 
+the winner is X
+O O X 
+X X O 
+O O X 
+It's a draw !
+X O X 
+X X O 
+O O X 
+the winner is X
+O X X 
+X X O 
+O O X 
+It's a draw !
+X X O 
+O O X 
+O O X 
+It's a draw !
+O X X 
+O O X 
+O # # 
+the winner is O
+O X O 
+X O X 
+O O X 
+It's a draw !
+X X O 
+X O X 
+O O X 
+It's a draw !
+X O X 
+X O X 
+O O # 
+the winner is O
+O X X 
+X O X 
+O O X 
+the winner is X
+X O O 
+O X X 
+O O X 
+the winner is X
+O X O 
+O X X 
+O # # 
+the winner is O
+X X O 
+O X X 
+O O X 
+the winner is X
+O O X 
+O X X 
+O # # 
+the winner is O
+X O X 
+O X X 
+O O X 
+the winner is X
+O X X 
+O X X 
+O # # 
+the winner is O
+X O O 
+X O O 
+X # # 
+the winner is X
+O X O 
+X O O 
+X O X 
+It's a draw !
+X X O 
+X O O 
+X # # 
+the winner is X
+X O X 
+X O O 
+X # # 
+the winner is X
+O X X 
+X O O 
+X O X 
+It's a draw !
+X O O 
+O X O 
+X O X 
+the winner is X
+O X O 
+O X O 
+X O X 
+It's a draw !
+X X O 
+O X O 
+X O X 
+the winner is X
+O O X 
+O X O 
+X O X 
+It's a draw !
+X O X 
+O X O 
+X O X 
+the winner is X
+O X X 
+O X O 
+X O X 
+It's a draw !
+X O O 
+X X O 
+X # # 
+the winner is X
+O X O 
+X X O 
+X O X 
+It's a draw !
+O O X 
+X X O 
+X O X 
+It's a draw !
+O X O 
+O O X 
+X O X 
+It's a draw !
+X X O 
+O O X 
+X O X 
+It's a draw !
+X O X 
+O O X 
+X O # 
+the winner is O
+O X X 
+O O X 
+X O X 
+the winner is X
+X O O 
+X O X 
+X # # 
+the winner is X
+O X O 
+X O X 
+X O X 
+It's a draw !
+O O X 
+X O X 
+X O # 
+the winner is O
+X O O 
+O X X 
+X O X 
+the winner is X
+O X O 
+O X X 
+X O X 
+It's a draw !
+O O X 
+O X X 
+X O X 
+the winner is X
+X O O 
+X O O 
+O X X 
+It's a draw !
+O X O 
+X O O 
+O X X 
+It's a draw !
+X X O 
+X O O 
+O X X 
+It's a draw !
+O O X 
+X O O 
+O X X 
+It's a draw !
+X O X 
+X O O 
+O X X 
+It's a draw !
+O X X 
+X O O 
+O X X 
+It's a draw !
+X O O 
+O X O 
+O X X 
+the winner is X
+X X O 
+O X O 
+O X # 
+the winner is X
+X O X 
+O X O 
+O X X 
+the winner is X
+O X X 
+O X O 
+O # # 
+the winner is O
+X O O 
+X X O 
+O X X 
+the winner is X
+O X O 
+X X O 
+O X # 
+the winner is X
+O O X 
+X X O 
+O X X 
+It's a draw !
+X O O 
+O O X 
+O X X 
+It's a draw !
+X X O 
+O O X 
+O X X 
+It's a draw !
+X O X 
+O O X 
+O X X 
+the winner is X
+O X X 
+O O X 
+O # # 
+the winner is O
+X O O 
+X O X 
+O X X 
+It's a draw !
+O X O 
+X O X 
+O X X 
+It's a draw !
+O O X 
+X O X 
+O X X 
+the winner is X
+X O O 
+O X X 
+O X X 
+the winner is X
+O X O 
+O X X 
+O # # 
+the winner is O
+O O X 
+O X X 
+O # # 
+the winner is O
+O X X 
+O X X 
+O # # 
+the winner is O
+X O O 
+X O O 
+X # # 
+the winner is X
+O X O 
+X O O 
+X X X 
+the winner is X
+X X O 
+X O O 
+X # # 
+the winner is X
+O O X 
+X O O 
+X X X 
+the winner is X
+X O X 
+X O O 
+X # # 
+the winner is X
+X O O 
+O X O 
+X X X 
+the winner is X
+O X O 
+O X O 
+X X # 
+the winner is X
+O O X 
+O X O 
+X X X 
+the winner is X
+X O O 
+X X O 
+X # # 
+the winner is X
+X O O 
+O O X 
+X X X 
+the winner is X
+O X O 
+O O X 
+X X X 
+the winner is X
+O O X 
+O O X 
+X X X 
+the winner is X
+X O O 
+X O X 
+X # # 
+the winner is X
